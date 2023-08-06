@@ -1,0 +1,6 @@
+<p>Prezados!</p>
+<p>O rob&ocirc; <strong>{0}</strong> acabou de ser iniciado.</p>
+<p>Caso queira acompanhar a execu&ccedil;&atilde;o, cole esse link em um navegador na mesma rede da m&aacute;quina do rob&ocirc;.</p>
+<p><strong>Robot Stream:</strong> {1}</p>
+<p>Atenciosamente,</p>
+<p><strong><em>RPA</em></strong></p>

@@ -1,0 +1,14 @@
+Prezados,
+
+
+O processo de Criação de Pesquisa NPS foi efetuado com sucesso
+
+Segue o anexo do relatório Sintético com informações da execução.
+
+
+A atividade foi iniciada em {1} e finalizada em {2}.
+
+
+
+Atenciosamente,
+RPA
